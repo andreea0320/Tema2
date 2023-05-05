@@ -1,0 +1,35 @@
+button {
+  background-color: orange;
+  border-color: orange;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #f44336;
+  text-align: center;
+  margin-top: 50px;
+}
+
+button:hover {
+  background-color: #ff5722;
+  border-color: #ff5722;
+}
+
+table {
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+
+th,td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+th {
+  background-color: #f44336;
+  color: #fff;
+}
+
+tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
